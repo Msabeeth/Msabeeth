@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Msabeeth
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Mohammed sabeeth
+- 👀 I’m interested in web and software development.
 - 🌱 I’m currently learning HtML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on above mentioned topics and improve my skills.
 - 📫 How to reach me msabith017@gmail.com
